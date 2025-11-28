@@ -72,3 +72,5 @@ cd Smart-Education-Assistant
 -----------
 # Screenshots:
 <img width="2554" height="554" alt="image" src="https://github.com/user-attachments/assets/d69a3c76-75d3-4ba6-9a20-6a06d6831822" />
+
+
